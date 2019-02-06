@@ -1,0 +1,252 @@
+*** Starting. ***
+Opening the file for reading.
+Finished reading the file into the lines dictionary.
+Flagging page header lines in the dictionary.
+Flagging: 14: {'keep': False, 'text': '              EL JARDÍN DE FALERINA.\n'}
+Flagging: 14: {'keep': True, 'text': '\n'}
+Flagging: 14: {'keep': True, 'text': '\n'}
+Flagging: 14: {'keep': True, 'text': '         DE DON PEDRO CALDERÓN DE LA BARCA.\n'}
+Flagging: 50: {'keep': False, 'text': '4                                       EL JARDÍN DE FALERINA\n'}
+Flagging: 50: {'keep': True, 'text': '\n'}
+Flagging: 50: {'keep': True, 'text': '\n'}
+Flagging: 50: {'keep': True, 'text': '\n'}
+Flagging: 92: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                   5\n'}
+Flagging: 92: {'keep': True, 'text': '\n'}
+Flagging: 92: {'keep': True, 'text': '\n'}
+Flagging: 92: {'keep': True, 'text': '\n'}
+Flagging: 135: {'keep': False, 'text': '6                            EL JARDÍN DE FALERINA\n'}
+Flagging: 135: {'keep': True, 'text': '\n'}
+Flagging: 135: {'keep': True, 'text': '\n'}
+Flagging: 135: {'keep': True, 'text': '\n'}
+Flagging: 178: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                                   7\n'}
+Flagging: 178: {'keep': True, 'text': '\n'}
+Flagging: 178: {'keep': True, 'text': '\n'}
+Flagging: 178: {'keep': True, 'text': '\n'}
+Flagging: 219: {'keep': False, 'text': '8                                           EL JARDÍN DE FALERINA\n'}
+Flagging: 219: {'keep': True, 'text': '\n'}
+Flagging: 219: {'keep': True, 'text': '\n'}
+Flagging: 219: {'keep': True, 'text': '\n'}
+Flagging: 259: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                                    9\n'}
+Flagging: 259: {'keep': True, 'text': '\n'}
+Flagging: 259: {'keep': True, 'text': '\n'}
+Flagging: 259: {'keep': True, 'text': '\n'}
+Flagging: 300: {'keep': False, 'text': '10                                       EL JARDÍN DE FALERINA\n'}
+Flagging: 300: {'keep': True, 'text': '\n'}
+Flagging: 300: {'keep': True, 'text': '\n'}
+Flagging: 300: {'keep': True, 'text': '\n'}
+Flagging: 340: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                   11\n'}
+Flagging: 340: {'keep': True, 'text': '\n'}
+Flagging: 340: {'keep': True, 'text': '\n'}
+Flagging: 340: {'keep': True, 'text': '\n'}
+Flagging: 383: {'keep': False, 'text': '12                             EL JARDÍN DE FALERINA\n'}
+Flagging: 383: {'keep': True, 'text': '\n'}
+Flagging: 383: {'keep': True, 'text': '\n'}
+Flagging: 383: {'keep': True, 'text': '\n'}
+Flagging: 426: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                  13\n'}
+Flagging: 426: {'keep': True, 'text': '\n'}
+Flagging: 426: {'keep': True, 'text': '\n'}
+Flagging: 426: {'keep': True, 'text': '\n'}
+Flagging: 467: {'keep': False, 'text': '14                                             EL JARDÍN DE FALERINA\n'}
+Flagging: 467: {'keep': True, 'text': '\n'}
+Flagging: 467: {'keep': True, 'text': '\n'}
+Flagging: 467: {'keep': True, 'text': '\n'}
+Flagging: 506: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                   15\n'}
+Flagging: 506: {'keep': True, 'text': '\n'}
+Flagging: 506: {'keep': True, 'text': '\n'}
+Flagging: 506: {'keep': True, 'text': '\n'}
+Flagging: 546: {'keep': False, 'text': '16                                             EL JARDÍN DE FALERINA\n'}
+Flagging: 546: {'keep': True, 'text': '\n'}
+Flagging: 546: {'keep': True, 'text': '\n'}
+Flagging: 546: {'keep': True, 'text': '\n'}
+Flagging: 588: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                   17\n'}
+Flagging: 588: {'keep': True, 'text': '\n'}
+Flagging: 588: {'keep': True, 'text': '\n'}
+Flagging: 588: {'keep': True, 'text': '\n'}
+Flagging: 630: {'keep': False, 'text': '18                                       EL JARDÍN DE FALERINA\n'}
+Flagging: 630: {'keep': True, 'text': '\n'}
+Flagging: 630: {'keep': True, 'text': '\n'}
+Flagging: 630: {'keep': True, 'text': '\n'}
+Flagging: 669: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                                   19\n'}
+Flagging: 669: {'keep': True, 'text': '\n'}
+Flagging: 669: {'keep': True, 'text': '\n'}
+Flagging: 669: {'keep': True, 'text': '\n'}
+Flagging: 708: {'keep': False, 'text': '20                                                EL JARDÍN DE FALERINA\n'}
+Flagging: 708: {'keep': True, 'text': '\n'}
+Flagging: 708: {'keep': True, 'text': '\n'}
+Flagging: 708: {'keep': True, 'text': '\n'}
+Flagging: 743: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                               21\n'}
+Flagging: 743: {'keep': True, 'text': '\n'}
+Flagging: 743: {'keep': True, 'text': '\n'}
+Flagging: 743: {'keep': True, 'text': '\n'}
+Flagging: 784: {'keep': False, 'text': '22                                             EL JARDÍN DE FALERINA\n'}
+Flagging: 784: {'keep': True, 'text': '\n'}
+Flagging: 784: {'keep': True, 'text': '\n'}
+Flagging: 784: {'keep': True, 'text': '\n'}
+Flagging: 826: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                                     23\n'}
+Flagging: 826: {'keep': True, 'text': '\n'}
+Flagging: 826: {'keep': True, 'text': '\n'}
+Flagging: 826: {'keep': True, 'text': '\n'}
+Flagging: 866: {'keep': False, 'text': '24                                  EL JARDÍN DE FALERINA\n'}
+Flagging: 866: {'keep': True, 'text': '\n'}
+Flagging: 866: {'keep': True, 'text': '\n'}
+Flagging: 866: {'keep': True, 'text': '\n'}
+Flagging: 905: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                      25\n'}
+Flagging: 905: {'keep': True, 'text': '\n'}
+Flagging: 905: {'keep': True, 'text': '\n'}
+Flagging: 905: {'keep': True, 'text': '\n'}
+Flagging: 943: {'keep': False, 'text': '26                                               EL JARDÍN DE FALERINA\n'}
+Flagging: 943: {'keep': True, 'text': '\n'}
+Flagging: 943: {'keep': True, 'text': '\n'}
+Flagging: 943: {'keep': True, 'text': '\n'}
+Flagging: 981: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                        27\n'}
+Flagging: 981: {'keep': True, 'text': '\n'}
+Flagging: 981: {'keep': True, 'text': '\n'}
+Flagging: 981: {'keep': True, 'text': '\n'}
+Flagging: 1019: {'keep': False, 'text': '28                                           EL JARDÍN DE FALERINA\n'}
+Flagging: 1019: {'keep': True, 'text': '\n'}
+Flagging: 1019: {'keep': True, 'text': '\n'}
+Flagging: 1019: {'keep': True, 'text': '\n'}
+Flagging: 1058: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                                    29\n'}
+Flagging: 1058: {'keep': True, 'text': '\n'}
+Flagging: 1058: {'keep': True, 'text': '\n'}
+Flagging: 1058: {'keep': True, 'text': '\n'}
+Flagging: 1098: {'keep': False, 'text': '30                                   EL JARDÍN DE FALERINA\n'}
+Flagging: 1098: {'keep': True, 'text': '\n'}
+Flagging: 1098: {'keep': True, 'text': '\n'}
+Flagging: 1098: {'keep': True, 'text': '\n'}
+Flagging: 1139: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                               31\n'}
+Flagging: 1139: {'keep': True, 'text': '\n'}
+Flagging: 1139: {'keep': True, 'text': '\n'}
+Flagging: 1139: {'keep': True, 'text': '\n'}
+Flagging: 1185: {'keep': False, 'text': '32                                   EL JARDÍN DE FALERINA\n'}
+Flagging: 1185: {'keep': True, 'text': '\n'}
+Flagging: 1185: {'keep': True, 'text': '\n'}
+Flagging: 1185: {'keep': True, 'text': '\n'}
+Flagging: 1226: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                               33\n'}
+Flagging: 1226: {'keep': True, 'text': '\n'}
+Flagging: 1226: {'keep': True, 'text': '\n'}
+Flagging: 1226: {'keep': True, 'text': '\n'}
+Flagging: 1265: {'keep': False, 'text': '34                                 EL JARDÍN DE FALERINA\n'}
+Flagging: 1265: {'keep': True, 'text': '\n'}
+Flagging: 1265: {'keep': True, 'text': '\n'}
+Flagging: 1265: {'keep': True, 'text': '\n'}
+Flagging: 1307: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                              35\n'}
+Flagging: 1307: {'keep': True, 'text': '\n'}
+Flagging: 1307: {'keep': True, 'text': '\n'}
+Flagging: 1307: {'keep': True, 'text': '\n'}
+Flagging: 1348: {'keep': False, 'text': '36                                               EL JARDÍN DE FALERINA\n'}
+Flagging: 1348: {'keep': True, 'text': '\n'}
+Flagging: 1348: {'keep': True, 'text': '\n'}
+Flagging: 1348: {'keep': True, 'text': '\n'}
+Flagging: 1387: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                 37\n'}
+Flagging: 1387: {'keep': True, 'text': '\n'}
+Flagging: 1387: {'keep': True, 'text': '\n'}
+Flagging: 1387: {'keep': True, 'text': '\n'}
+Flagging: 1427: {'keep': False, 'text': '38                                    EL JARDÍN DE FALERINA\n'}
+Flagging: 1427: {'keep': True, 'text': '\n'}
+Flagging: 1427: {'keep': True, 'text': '\n'}
+Flagging: 1427: {'keep': True, 'text': '\n'}
+Flagging: 1467: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                39\n'}
+Flagging: 1467: {'keep': True, 'text': '\n'}
+Flagging: 1467: {'keep': True, 'text': '\n'}
+Flagging: 1467: {'keep': True, 'text': '\n'}
+Flagging: 1508: {'keep': False, 'text': '40                                            EL JARDÍN DE FALERINA\n'}
+Flagging: 1508: {'keep': True, 'text': '\n'}
+Flagging: 1508: {'keep': True, 'text': '\n'}
+Flagging: 1508: {'keep': True, 'text': '\n'}
+Flagging: 1548: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                                    41\n'}
+Flagging: 1548: {'keep': True, 'text': '\n'}
+Flagging: 1548: {'keep': True, 'text': '\n'}
+Flagging: 1548: {'keep': True, 'text': '\n'}
+Flagging: 1590: {'keep': False, 'text': '42                             EL JARDÍN DE FALERINA\n'}
+Flagging: 1590: {'keep': True, 'text': '\n'}
+Flagging: 1590: {'keep': True, 'text': '\n'}
+Flagging: 1590: {'keep': True, 'text': '\n'}
+Flagging: 1633: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                              43\n'}
+Flagging: 1633: {'keep': True, 'text': '\n'}
+Flagging: 1633: {'keep': True, 'text': '\n'}
+Flagging: 1633: {'keep': True, 'text': '\n'}
+Flagging: 1672: {'keep': False, 'text': '44                                        EL JARDÍN DE FALERINA\n'}
+Flagging: 1672: {'keep': True, 'text': '\n'}
+Flagging: 1672: {'keep': True, 'text': '\n'}
+Flagging: 1672: {'keep': True, 'text': '\n'}
+Flagging: 1715: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                   45\n'}
+Flagging: 1715: {'keep': True, 'text': '\n'}
+Flagging: 1715: {'keep': True, 'text': '\n'}
+Flagging: 1715: {'keep': True, 'text': '\n'}
+Flagging: 1757: {'keep': False, 'text': '46                             EL JARDÍN DE FALERINA\n'}
+Flagging: 1757: {'keep': True, 'text': '\n'}
+Flagging: 1757: {'keep': True, 'text': '\n'}
+Flagging: 1757: {'keep': True, 'text': '\n'}
+Flagging: 1800: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                    47\n'}
+Flagging: 1800: {'keep': True, 'text': '\n'}
+Flagging: 1800: {'keep': True, 'text': '\n'}
+Flagging: 1800: {'keep': True, 'text': '\n'}
+Flagging: 1841: {'keep': False, 'text': '48                                      EL JARDÍN DE FALERINA\n'}
+Flagging: 1841: {'keep': True, 'text': '\n'}
+Flagging: 1841: {'keep': True, 'text': '\n'}
+Flagging: 1841: {'keep': True, 'text': '\n'}
+Flagging: 1882: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                    49\n'}
+Flagging: 1882: {'keep': True, 'text': '\n'}
+Flagging: 1882: {'keep': True, 'text': '\n'}
+Flagging: 1882: {'keep': True, 'text': '\n'}
+Flagging: 1920: {'keep': False, 'text': '50                                        EL JARDÍN DE FALERINA\n'}
+Flagging: 1920: {'keep': True, 'text': '\n'}
+Flagging: 1920: {'keep': True, 'text': '\n'}
+Flagging: 1920: {'keep': True, 'text': '\n'}
+Flagging: 1960: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                    51\n'}
+Flagging: 1960: {'keep': True, 'text': '\n'}
+Flagging: 1960: {'keep': True, 'text': '\n'}
+Flagging: 1960: {'keep': True, 'text': '\n'}
+Flagging: 2002: {'keep': False, 'text': '52                                        EL JARDÍN DE FALERINA\n'}
+Flagging: 2002: {'keep': True, 'text': '\n'}
+Flagging: 2002: {'keep': True, 'text': '\n'}
+Flagging: 2002: {'keep': True, 'text': '\n'}
+Flagging: 2043: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                         53\n'}
+Flagging: 2043: {'keep': True, 'text': '\n'}
+Flagging: 2043: {'keep': True, 'text': '\n'}
+Flagging: 2043: {'keep': True, 'text': '\n'}
+Flagging: 2082: {'keep': False, 'text': '54                                                 EL JARDÍN DE FALERINA\n'}
+Flagging: 2082: {'keep': True, 'text': '\n'}
+Flagging: 2082: {'keep': True, 'text': '\n'}
+Flagging: 2082: {'keep': True, 'text': '\n'}
+Flagging: 2120: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                            55\n'}
+Flagging: 2120: {'keep': True, 'text': '\n'}
+Flagging: 2120: {'keep': True, 'text': '\n'}
+Flagging: 2120: {'keep': True, 'text': '\n'}
+Flagging: 2158: {'keep': False, 'text': '56                                             EL JARDÍN DE FALERINA\n'}
+Flagging: 2158: {'keep': True, 'text': '\n'}
+Flagging: 2158: {'keep': True, 'text': '\n'}
+Flagging: 2158: {'keep': True, 'text': '\n'}
+Flagging: 2202: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                  57\n'}
+Flagging: 2202: {'keep': True, 'text': '\n'}
+Flagging: 2202: {'keep': True, 'text': '\n'}
+Flagging: 2202: {'keep': True, 'text': '\n'}
+Flagging: 2243: {'keep': False, 'text': '58                                   EL JARDÍN DE FALERINA\n'}
+Flagging: 2243: {'keep': True, 'text': '\n'}
+Flagging: 2243: {'keep': True, 'text': '\n'}
+Flagging: 2243: {'keep': True, 'text': '\n'}
+Flagging: 2283: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                               59\n'}
+Flagging: 2283: {'keep': True, 'text': '\n'}
+Flagging: 2283: {'keep': True, 'text': '\n'}
+Flagging: 2283: {'keep': True, 'text': '\n'}
+Flagging: 2321: {'keep': False, 'text': '60                                              EL JARDÍN DE FALERINA\n'}
+Flagging: 2321: {'keep': True, 'text': '\n'}
+Flagging: 2321: {'keep': True, 'text': '\n'}
+Flagging: 2321: {'keep': True, 'text': '\n'}
+Flagging: 2360: {'keep': False, 'text': 'CALDERÓN DE LA BARCA                                   61\n'}
+Flagging: 2360: {'keep': True, 'text': '\n'}
+Flagging: 2360: {'keep': True, 'text': '\n'}
+Flagging: 2360: {'keep': True, 'text': '\n'}
+Flagging: 2400: {'keep': False, 'text': '62                                             EL JARDÍN DE FALERINA\n'}
+Flagging: 2400: {'keep': True, 'text': '\n'}
+Flagging: 2400: {'keep': True, 'text': '\n'}
+Flagging: 2400: {'keep': True, 'text': '\n'}
+Flagging: 2440: {'keep': False, 'text': '    CALDERÓN DE LA BARCA                                                         63\n'}
+Flagging: 2440: {'keep': True, 'text': '\n'}
+Flagging: 2440: {'keep': True, 'text': '\n'}
+Flagging: 2440: {'keep': True, 'text': '\n'}
+Finished flagging page header lines in the dictionary. 2221; 183
+Writing all lines not flagged into the output file.
+Finished writing un-flagged lines to the output file.
+*** Finished. ****

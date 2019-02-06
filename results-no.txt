@@ -1,0 +1,8 @@
+*** Starting. ***
+Opening the file for reading.
+Finished reading the file into the lines dictionary.
+Flagging page header lines in the dictionary.
+Finished flagging page header lines in the dictionary. 2160; 244
+Writing all lines not flagged into the output file.
+Finished writing un-flagged lines to the output file.
+*** Finished. ****
