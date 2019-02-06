@@ -59,13 +59,16 @@ for line_number, line_data in lines_iterator:
          personas_started = any(token in line_data['text'] for token in CHARACTER_HEADING_TOKENS)
 
     if personas_started and not personas_finished:
-        print(f'line_number: {line_number}; line_data[\'text\']: {line_data["text"].strip()}')
         if not line_data['text'].strip():
             blank_line_counter += 1
             personas_finished = blank_line_counter == 2
-            print(f'\tblank_line_counter: {blank_line_counter}')
         else:
-            personas_tokens_init.append(line_data['text'].strip().split('.'))
+            line_data_tokens = line_data['text'].strip().split('.')
+            for token in line_data_tokens:
+                if not token or token in CHARACTER_HEADING_TOKENS:
+                    continue
+                else:
+                    personas_tokens_init.append(token.strip())
 
     if any(token in line_data['text'] for token in PAGE_HEADER_TOKENS):
         for i in range(PAGE_HEADER_SKIP_LINES):
@@ -77,14 +80,15 @@ for line_number, line_data in lines_iterator:
         LINES[line_number]['keep'] = False
 
 for token in personas_tokens_init:
-    for sub_token in token:
-        if sub_token:
-            if ',' in sub_token:
-                sub_split_tokens = sub_token.split(',')
-                for sub_split_token in sub_split_tokens:
-                    personas_tokens_final.append(sub_split_token.strip())
-            else:
-                personas_tokens_final.append(sub_token.strip())
+    if not token:
+        continue
+
+    if ',' in token:
+        sub_tokens = token.split(',')
+        for sub_token in sub_tokens:
+            personas_tokens_final.append(sub_token.strip())
+    else:
+        personas_tokens_final.append(token)
 
 print(f'PERSONAS: {personas_tokens_final}')
 
